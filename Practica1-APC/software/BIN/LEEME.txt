@@ -1,0 +1,15 @@
+La ejecución del programa se realiza de la siguiente forma:
+
+./Practica1 parametros.txt 
+
+Donde parametros.txt contiene los parámetros de los algoritmos ordenados como se expresa a 
+continuación.
+
+parametros.txt: fichero de texto en el que cada linea es un parámetro de todos los que necesitan los algoritmos en el siguiente orden (alpha, probabilidad de cruce, probabilidad de mutación, probabilidad de BL para los AMs, semilla aleatoria, numero de cromosomas para los AGs, numero de cromosomas para los AMs)
+*.o : Ficheros compilados que se necesitan para crear el ejecutable Practica1
+
+*.arff: ficheros de datos que nuestro programa lee una vez se ejecuta.
+
+Una vez ejecutado el programa aparecerá un menú que nos permitirá seleccionar la base de datos a cargar, pulsando un número del 1 al 3.
+
+Acto seguido se nos proponen los 10 algoritmos a ejecutar, de los cuales solo podemos seleccionar 1 introduciendo un numero del 1 al 10.

@@ -1,0 +1,400 @@
+_____________________________________________________________________________________________________________
+Algoritmo -> _____________________________________________1-NN______________________________________________
+Porcentaje clasificacion 1-NN Particion 1-1 ------> 80%
+Tiempo de ejecucion      1-NN Particion 1-1 ------> 0.00422913s
+
+Porcentaje clasificacion 1-NN Particion 1-2 ------> 80.8696%
+Tiempo de ejecucion      1-NN Particion 1-2 ------> 0.00321031s
+
+
+Porcentaje clasificacion 1-NN Particion 2-1 ------> 84.7826%
+Tiempo de ejecucion      1-NN Particion 2-1 ------> 0.00308959s
+
+Porcentaje clasificacion 1-NN Particion 2-2 ------> 81.3043%
+Tiempo de ejecucion      1-NN Particion 2-2 ------> 0.00344498s
+
+
+Porcentaje clasificacion 1-NN Particion 3-1 ------> 79.5652%
+Tiempo de ejecucion      1-NN Particion 3-1 ------> 0.00263893s
+
+Porcentaje clasificacion 1-NN Particion 3-2 ------> 84.3478%
+Tiempo de ejecucion      1-NN Particion 3-2 ------> 0.00257956s
+
+
+Porcentaje clasificacion 1-NN Particion 4-1 ------> 83.0435%
+Tiempo de ejecucion      1-NN Particion 4-1 ------> 0.00258493s
+
+Porcentaje clasificacion 1-NN Particion 4-2 ------> 81.7391%
+Tiempo de ejecucion      1-NN Particion 4-2 ------> 0.00257482s
+
+
+Porcentaje clasificacion 1-NN Particion 5-1 ------> 77.3913%
+Tiempo de ejecucion      1-NN Particion 5-1 ------> 0.00263433s
+
+Porcentaje clasificacion 1-NN Particion 5-2 ------> 80.4348%
+Tiempo de ejecucion      1-NN Particion 5-2 ------> 0.00260076s
+
+
+Tasa de clasificacion media 1NN 81.3478
+Tiempo de ejecucion medio   1NN 0.00295873
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________RELIEF__________________________________________________
+Porcentaje clasificacion RELIEF Particion 1-1 ------> 84.7826%
+Tiempo de ejecucion      RELIEF Particion 1-1 ------> 0.0168381s
+
+Porcentaje clasificacion RELIEF Particion 1-2 ------> 80.8696%
+Tiempo de ejecucion      RELIEF Particion 1-2 ------> 0.01242s
+
+
+Porcentaje clasificacion RELIEF Particion 2-1 ------> 90%
+Tiempo de ejecucion      RELIEF Particion 2-1 ------> 0.0160436s
+
+Porcentaje clasificacion RELIEF Particion 2-2 ------> 82.6087%
+Tiempo de ejecucion      RELIEF Particion 2-2 ------> 0.0124995s
+
+
+Porcentaje clasificacion RELIEF Particion 3-1 ------> 84.3478%
+Tiempo de ejecucion      RELIEF Particion 3-1 ------> 0.0143745s
+
+Porcentaje clasificacion RELIEF Particion 3-2 ------> 85.2174%
+Tiempo de ejecucion      RELIEF Particion 3-2 ------> 0.0134907s
+
+
+Porcentaje clasificacion RELIEF Particion 4-1 ------> 89.1304%
+Tiempo de ejecucion      RELIEF Particion 4-1 ------> 0.0124027s
+
+Porcentaje clasificacion RELIEF Particion 4-2 ------> 84.3478%
+Tiempo de ejecucion      RELIEF Particion 4-2 ------> 0.0123895s
+
+
+Porcentaje clasificacion RELIEF Particion 5-1 ------> 83.913%
+Tiempo de ejecucion      RELIEF Particion 5-1 ------> 0.0123315s
+
+Porcentaje clasificacion RELIEF Particion 5-2 ------> 85.6522%
+Tiempo de ejecucion      RELIEF Particion 5-2 ------> 0.0124236s
+
+
+Tasa de clasificacion media RELIEF 85.087
+Tiempo de ejecicion medio   RELIEF 0.0135214
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________BL____________________________________________________
+Porcentaje clasificacion LS Particion 1-1 ------> 82.6087%
+Tiempo de ejecucion      LS Particion 1-1 ------> 3.25134s
+
+Porcentaje clasificacion LS Particion 1-2 ------> 79.1304%
+Tiempo de ejecucion      LS Particion 1-2 ------> 3.54908s
+
+
+Porcentaje clasificacion LS Particion 2-1 ------> 81.7391%
+Tiempo de ejecucion      LS Particion 2-1 ------> 3.42074s
+
+Porcentaje clasificacion LS Particion 2-2 ------> 80%
+Tiempo de ejecucion      LS Particion 2-2 ------> 3.3367s
+
+
+Porcentaje clasificacion LS Particion 3-1 ------> 81.7391%
+Tiempo de ejecucion      LS Particion 3-1 ------> 3.24874s
+
+Porcentaje clasificacion LS Particion 3-2 ------> 83.913%
+Tiempo de ejecucion      LS Particion 3-2 ------> 3.36765s
+
+
+Porcentaje clasificacion LS Particion 4-1 ------> 89.5652%
+Tiempo de ejecucion      LS Particion 4-1 ------> 3.23374s
+
+Porcentaje clasificacion LS Particion 4-2 ------> 83.0435%
+Tiempo de ejecucion      LS Particion 4-2 ------> 3.1033s
+
+
+Porcentaje clasificacion LS Particion 5-1 ------> 86.087%
+Tiempo de ejecucion      LS Particion 5-1 ------> 3.17286s
+
+Porcentaje clasificacion LS Particion 5-2 ------> 83.913%
+Tiempo de ejecucion      LS Particion 5-2 ------> 3.03815s
+
+
+Tasa de clasificacion media LS 83.1739
+Tiempo de ejecucion medio   LS 3.27223
+
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________AGG-BLX_______________________________________________________
+Porcentaje clasificacion AGG-BLX Particion 1-1 ------> 80%
+Tiempo de ejecucion      AGG-BLX Particion 1-1 ------> 43.5405s
+
+Porcentaje clasificacion AGG-BLX Particion 1-2 ------> 80%
+Tiempo de ejecucion      AGG-BLX Particion 1-2 ------> 41.8263s
+
+
+Porcentaje clasificacion AGG-BLX Particion 2-1 ------> 85.2174%
+Tiempo de ejecucion      AGG-BLX Particion 2-1 ------> 39.8665s
+
+Porcentaje clasificacion AGG-BLX Particion 2-2 ------> 82.6087%
+Tiempo de ejecucion      AGG-BLX Particion 2-2 ------> 39.8829s
+
+
+Porcentaje clasificacion AGG-BLX Particion 3-1 ------> 80.4348%
+Tiempo de ejecucion      AGG-BLX Particion 3-1 ------> 39.2723s
+
+Porcentaje clasificacion AGG-BLX Particion 3-2 ------> 84.3478%
+Tiempo de ejecucion      AGG-BLX Particion 3-2 ------> 39.9965s
+
+
+Porcentaje clasificacion AGG-BLX Particion 4-1 ------> 82.6087%
+Tiempo de ejecucion      AGG-BLX Particion 4-1 ------> 40.2628s
+
+Porcentaje clasificacion AGG-BLX Particion 4-2 ------> 85.2174%
+Tiempo de ejecucion      AGG-BLX Particion 4-2 ------> 40.1038s
+
+
+Porcentaje clasificacion AGG-BLX Particion 5-1 ------> 81.7391%
+Tiempo de ejecucion      AGG-BLX Particion 5-1 ------> 39.8332s
+
+Porcentaje clasificacion AGG-BLX Particion 5-2 ------> 83.0435%
+Tiempo de ejecucion      AGG-BLX Particion 5-2 ------> 39.451s
+
+
+Tasa de clasificacion media AGG-BLX 82.5217
+Tiempo de ejecucion medio   AGG-BLX 40.4036
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________AGG-CA________________________________________________________
+Porcentaje clasificacion AGG-CA Particion 1-1 ------> 80.8696%
+Tiempo de ejecucion      AGG-CA Particion 1-1 ------> 42.7104s
+
+Porcentaje clasificacion AGG-CA Particion 1-2 ------> 81.7391%
+Tiempo de ejecucion      AGG-CA Particion 1-2 ------> 39.6313s
+
+
+Porcentaje clasificacion AGG-CA Particion 2-1 ------> 84.7826%
+Tiempo de ejecucion      AGG-CA Particion 2-1 ------> 39.4424s
+
+Porcentaje clasificacion AGG-CA Particion 2-2 ------> 80.4348%
+Tiempo de ejecucion      AGG-CA Particion 2-2 ------> 39.9038s
+
+
+Porcentaje clasificacion AGG-CA Particion 3-1 ------> 82.1739%
+Tiempo de ejecucion      AGG-CA Particion 3-1 ------> 39.8162s
+
+Porcentaje clasificacion AGG-CA Particion 3-2 ------> 83.0435%
+Tiempo de ejecucion      AGG-CA Particion 3-2 ------> 39.6229s
+
+
+Porcentaje clasificacion AGG-CA Particion 4-1 ------> 86.087%
+Tiempo de ejecucion      AGG-CA Particion 4-1 ------> 39.2788s
+
+Porcentaje clasificacion AGG-CA Particion 4-2 ------> 82.6087%
+Tiempo de ejecucion      AGG-CA Particion 4-2 ------> 40.0116s
+
+
+Porcentaje clasificacion AGG-CA Particion 5-1 ------> 82.1739%
+Tiempo de ejecucion      AGG-CA Particion 5-1 ------> 42.6965s
+
+Porcentaje clasificacion AGG-CA Particion 5-2 ------> 82.6087%
+Tiempo de ejecucion      AGG-CA Particion 5-2 ------> 40.2905s
+
+
+Tasa de clasificacion media AGG-CA 82.6522
+Tiempo de ejecucion medio   AGG-CA 40.3404
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________AGE-BLX_______________________________________________________
+Porcentaje clasificacion AGE-BLX Particion 1-1 ------> 79.1304%
+Tiempo de ejecucion      AGE-BLX Particion 1-1 ------> 39.6474s
+
+Porcentaje clasificacion AGE-BLX Particion 1-2 ------> 79.1304%
+Tiempo de ejecucion      AGE-BLX Particion 1-2 ------> 39.6316s
+
+
+Porcentaje clasificacion AGE-BLX Particion 2-1 ------> 82.6087%
+Tiempo de ejecucion      AGE-BLX Particion 2-1 ------> 39.6161s
+
+Porcentaje clasificacion AGE-BLX Particion 2-2 ------> 80.4348%
+Tiempo de ejecucion      AGE-BLX Particion 2-2 ------> 39.7262s
+
+
+Porcentaje clasificacion AGE-BLX Particion 3-1 ------> 81.3043%
+Tiempo de ejecucion      AGE-BLX Particion 3-1 ------> 39.6351s
+
+Porcentaje clasificacion AGE-BLX Particion 3-2 ------> 83.0435%
+Tiempo de ejecucion      AGE-BLX Particion 3-2 ------> 39.8771s
+
+
+Porcentaje clasificacion AGE-BLX Particion 4-1 ------> 81.7391%
+Tiempo de ejecucion      AGE-BLX Particion 4-1 ------> 39.6882s
+
+Porcentaje clasificacion AGE-BLX Particion 4-2 ------> 83.4783%
+Tiempo de ejecucion      AGE-BLX Particion 4-2 ------> 39.7994s
+
+
+Porcentaje clasificacion AGE-BLX Particion 5-1 ------> 84.3478%
+Tiempo de ejecucion      AGE-BLX Particion 5-1 ------> 39.7968s
+
+Porcentaje clasificacion AGE-BLX Particion 5-2 ------> 83.913%
+Tiempo de ejecucion      AGE-BLX Particion 5-2 ------> 39.6568s
+
+
+Tasa de clasificacion media AGE-BLX 81.913
+Tiempo de ejecucion medio   AGE-BLX 39.7075
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________AGE-CA________________________________________________________
+Porcentaje clasificacion AGE-CA Particion 1-1 ------> 79.1304%
+Tiempo de ejecucion      AGE-CA Particion 1-1 ------> 42.2827s
+
+Porcentaje clasificacion AGE-CA Particion 1-2 ------> 77.8261%
+Tiempo de ejecucion      AGE-CA Particion 1-2 ------> 40.0617s
+
+
+Porcentaje clasificacion AGE-CA Particion 2-1 ------> 86.5217%
+Tiempo de ejecucion      AGE-CA Particion 2-1 ------> 39.7376s
+
+Porcentaje clasificacion AGE-CA Particion 2-2 ------> 83.0435%
+Tiempo de ejecucion      AGE-CA Particion 2-2 ------> 40.0827s
+
+
+Porcentaje clasificacion AGE-CA Particion 3-1 ------> 82.1739%
+Tiempo de ejecucion      AGE-CA Particion 3-1 ------> 40.1388s
+
+Porcentaje clasificacion AGE-CA Particion 3-2 ------> 84.7826%
+Tiempo de ejecucion      AGE-CA Particion 3-2 ------> 39.9916s
+
+
+Porcentaje clasificacion AGE-CA Particion 4-1 ------> 83.4783%
+Tiempo de ejecucion      AGE-CA Particion 4-1 ------> 40.2138s
+
+Porcentaje clasificacion AGE-CA Particion 4-2 ------> 84.7826%
+Tiempo de ejecucion      AGE-CA Particion 4-2 ------> 41.0523s
+
+
+Porcentaje clasificacion AGE-CA Particion 5-1 ------> 78.6956%
+Tiempo de ejecucion      AGE-CA Particion 5-1 ------> 39.9423s
+
+Porcentaje clasificacion AGE-CA Particion 5-2 ------> 84.7826%
+Tiempo de ejecucion      AGE-CA Particion 5-2 ------> 40.2168s
+
+
+Tasa de clasificacion media AGG-CA 82.5217
+Tiempo de ejecucion medio   AGG-CA 40.372
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________AM-(10,1.0)___________________________________________________
+Porcentaje clasificacion AM-(10,1.0) Particion 1-1 ------> 78.2609%
+Tiempo de ejecucion      AM-(10,1.0) Particion 1-1 ------> 42.072s
+
+Porcentaje clasificacion AM-(10,1.0) Particion 1-2 ------> 81.3043%
+Tiempo de ejecucion      AM-(10,1.0) Particion 1-2 ------> 41.1876s
+
+
+Porcentaje clasificacion AM-(10,1.0) Particion 2-1 ------> 86.9565%
+Tiempo de ejecucion      AM-(10,1.0) Particion 2-1 ------> 41.5974s
+
+Porcentaje clasificacion AM-(10,1.0) Particion 2-2 ------> 81.7391%
+Tiempo de ejecucion      AM-(10,1.0) Particion 2-2 ------> 42.416s
+
+
+Porcentaje clasificacion AM-(10,1.0) Particion 3-1 ------> 83.913%
+Tiempo de ejecucion      AM-(10,1.0) Particion 3-1 ------> 41.4463s
+
+Porcentaje clasificacion AM-(10,1.0) Particion 3-2 ------> 85.2174%
+Tiempo de ejecucion      AM-(10,1.0) Particion 3-2 ------> 44.8297s
+
+
+Porcentaje clasificacion AM-(10,1.0) Particion 4-1 ------> 83.0435%
+Tiempo de ejecucion      AM-(10,1.0) Particion 4-1 ------> 43.3684s
+
+Porcentaje clasificacion AM-(10,1.0) Particion 4-2 ------> 84.7826%
+Tiempo de ejecucion      AM-(10,1.0) Particion 4-2 ------> 40.9728s
+
+
+Porcentaje clasificacion AM-(10,1.0) Particion 5-1 ------> 77.3913%
+Tiempo de ejecucion      AM-(10,1.0) Particion 5-1 ------> 40.8097s
+
+Porcentaje clasificacion AM-(10,1.0) Particion 5-2 ------> 83.4783%
+Tiempo de ejecucion      AM-(10,1.0) Particion 5-2 ------> 40.7964s
+
+
+Tasa de clasificacion media AM-(10,1.0) 82.6087
+Tiempo de ejecucion medio   AM-(10,1.0) 41.9496
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________AM-(10,0.1)___________________________________________________
+Porcentaje clasificacion AM-(10,0.1) Particion 1-1 ------> 80%
+Tiempo de ejecucion      AM-(10,0.1) Particion 1-1 ------> 44.7875s
+
+Porcentaje clasificacion AM-(10,0.1) Particion 1-2 ------> 79.5652%
+Tiempo de ejecucion      AM-(10,0.1) Particion 1-2 ------> 43.1948s
+
+
+Porcentaje clasificacion AM-(10,0.1) Particion 2-1 ------> 82.6087%
+Tiempo de ejecucion      AM-(10,0.1) Particion 2-1 ------> 44.5783s
+
+Porcentaje clasificacion AM-(10,0.1) Particion 2-2 ------> 83.913%
+Tiempo de ejecucion      AM-(10,0.1) Particion 2-2 ------> 45.9956s
+
+
+Porcentaje clasificacion AM-(10,0.1) Particion 3-1 ------> 77.8261%
+Tiempo de ejecucion      AM-(10,0.1) Particion 3-1 ------> 44.0756s
+
+Porcentaje clasificacion AM-(10,0.1) Particion 3-2 ------> 81.3043%
+Tiempo de ejecucion      AM-(10,0.1) Particion 3-2 ------> 45.5012s
+
+
+Porcentaje clasificacion AM-(10,0.1) Particion 4-1 ------> 85.2174%
+Tiempo de ejecucion      AM-(10,0.1) Particion 4-1 ------> 44.5464s
+
+Porcentaje clasificacion AM-(10,0.1) Particion 4-2 ------> 84.3478%
+Tiempo de ejecucion      AM-(10,0.1) Particion 4-2 ------> 43.3549s
+
+
+Porcentaje clasificacion AM-(10,0.1) Particion 5-1 ------> 77.3913%
+Tiempo de ejecucion      AM-(10,0.1) Particion 5-1 ------> 43.3127s
+
+Porcentaje clasificacion AM-(10,0.1) Particion 5-2 ------> 82.1739%
+Tiempo de ejecucion      AM-(10,0.1) Particion 5-2 ------> 48.5905s
+
+
+Tasa de clasificacion media AM-(10,0.1) 81.4348
+Tiempo de ejecucion medio   AM-(10,0.1) 44.7937
+_____________________________________________________________________________________________________________
+
+Algoritmo -> ______________________________________________AM-CA-(10,0.1Mej)_____________________________________________
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 1-1 ------> 84.7826%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 1-1 ------> 40.7304s
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 1-2 ------> 83.0435%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 1-2 ------> 40.6362s
+
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 2-1 ------> 90.8696%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 2-1 ------> 40.9372s
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 2-2 ------> 84.7826%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 2-2 ------> 40.508s
+
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 3-1 ------> 81.7391%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 3-1 ------> 40.6013s
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 3-2 ------> 83.4783%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 3-2 ------> 40.9969s
+
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 4-1 ------> 79.5652%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 4-1 ------> 40.3987s
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 4-2 ------> 86.087%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 4-2 ------> 40.8048s
+
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 5-1 ------> 75.2174%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 5-1 ------> 40.4234s
+
+Porcentaje clasificacion AM-(10,0.1Mej) Particion 5-2 ------> 82.6087%
+Tiempo de ejecucion      AM-(10,0.1Mej) Particion 5-2 ------> 41.3161s
+
+
+Tasa de clasificacion media AM-(10,0.1Mej) 83.2174
+Tiempo de ejecucion medio   AM-(10,0.1Mej) 40.7353
