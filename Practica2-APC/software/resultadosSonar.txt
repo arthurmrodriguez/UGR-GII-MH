@@ -1,0 +1,315 @@
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+_____________________________________________1-NN______________________________________________
+
+82.9268 0 41.4634 0.000967505
+82.9268 0 41.4634 0.00108689
+87.8049 0 43.9024 0.000872231
+95.1219 0 47.561 0.000855986
+84.0909 0 42.0455 0.000827359
+
+86.5743 0 43.2871 0.000921995
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________RELIEF__________________________________________________
+
+78.0488 13.3333 45.6911 0.00965739
+80.4878 15 47.7439 0.00772902
+90.2439 11.6667 50.9553 0.00681264
+97.561 13.3333 55.4472 0.00687164
+84.0909 10 47.0455 0.0091506
+
+86.0865 12.6667 49.3766 0.00804426
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________ES__________________________________________________
+
+85.3659 31.6667 58.5163 3.02839
+82.9268 30 56.4634 3.04835
+87.8049 36.6667 62.2358 2.98901
+92.6829 40 66.3415 2.90783
+86.3636 40 63.1818 2.88503
+
+87.0288 35.6667 61.3477 2.97172
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________ILS__________________________________________________
+
+82.9268 46.6667 64.7967 30.3128
+78.0488 48.3333 63.1911 30.2191
+85.3659 43.3333 64.3496 30.4139
+87.8049 45 66.4024 30.386
+84.0909 43.3333 63.7121 29.8693
+
+83.6474 45.3333 64.4904 30.2402
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________DE_Rand_1__________________________________________________
+
+73.1707 88.3333 80.752 24.4352
+75.6098 91.6667 83.6382 24.3038
+68.2927 91.6667 79.9797 24.3367
+80.4878 90 85.2439 24.1159
+72.7273 90 81.3636 23.3892
+
+74.0576 90.3333 82.1955 24.1161
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________DE_CurrentToBest_1__________________________________________________
+
+70.7317 63.3333 67.0325 27.3946
+82.9268 51.6667 67.2967 28.1361
+85.3659 53.3333 69.3496 28.2101
+87.8049 61.6667 74.7358 27.7612
+81.8182 53.3333 67.5758 26.9354
+
+81.7295 56.6667 69.1981 27.6875
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________Local Search__________________________________________________
+
+78.0488 35 56.5244 2.52281
+80.4878 23.3333 51.9106 2.47641
+80.4878 28.3333 54.4106 2.492
+90.2439 31.6667 60.9553 2.43867
+79.5455 33.3333 56.4394 2.41701
+
+81.7627 30.3333 56.048 2.46938
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________AGG-BLX__________________________________________________
+
+78.0488 21.6667 49.8577 31.5658
+80.4878 21.6667 51.0772 31.526
+85.3659 23.3333 54.3496 31.5348
+90.2439 25 57.6219 31.501
+84.0909 20 52.0455 30.387
+
+83.6474 22.3333 52.9904 31.3029
+_____________________________________________________________________________________________________________
+******************************************************************************************
+                               Practica 2 - Metaheurísticas
+******************************************************************************************
+Seleccione la base de datos que desea cargar: 
+Fichero 1: sonar.arff
+Fichero 2: spambase-460.arff
+Fichero 3: wdbc.arff
+Fichero -> 
+
+Cargando 1...
+1 cargado.
+
+La base de datos 1 contiene 208 ejemplos con 60 caracterísicas.
+
+Seleccione el algoritmo que desea ejecutar: 
+Algoritmo 1: 1-NN
+Algoritmo 2: RELIEF
+Algoritmo 3: ES
+Algoritmo 4: ILS
+Algoritmo 5: DE_Rand_1
+Algoritmo 6: DE_CurrentToBest_1
+Algoritmo 7: LS
+Algoritmo 8: AGG-BLX
+Algoritmo 9: AM-(10,0.1mej)
+Algoritmo -> Se ha indicado formato de salida para recoleccion de datos
+______________________________________________AM-(10,0.1Mej)__________________________________________________
+
+73.1707 50 61.5854 28.0979
+85.3659 56.6667 71.0163 27.9191
+85.3659 53.3333 69.3496 28.374
+90.2439 51.6667 70.9553 28.4178
+81.8182 51.6667 66.7424 27.4358
+
+83.1929 52.6667 67.9298 28.0489
+_____________________________________________________________________________________________________________
